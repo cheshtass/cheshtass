@@ -42,6 +42,4 @@ I'm working toward becoming a well-rounded security professional with a strong f
 
 Working through the **Google Cybersecurity Professional Certificate** while strengthening my understanding of security concepts, networking, operating systems, risk management, and defensive security.
 
-### 💻 Building
 
-Turning what I learn into **projects, investigations, scripts, and security labs**, while documenting the process, findings, and lessons learned.
