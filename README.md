@@ -35,8 +35,8 @@ I'm working toward becoming a well-rounded security professional with a strong f
 
 ### 💻 What I'm Currently Doing
 
-🎯 CompTIA Security+ (SY0-701) — In progress
-📚 Google Cybersecurity Professional Certificate — In progress via Coursera
+- 🎯 **CompTIA Security+ (SY0-701)** — In progress
+- 📚 **Google Cybersecurity Professional Certificate** — In progress via Coursera
 
 ### 💻 Learning
 
