@@ -20,27 +20,28 @@ I'm interested in understanding cybersecurity beyond individual tools — from *
 
 I'm working toward becoming a well-rounded security professional with a strong foundation across:
 
-- Security fundamentals and defensive security
-- Network and communication security
-- Security monitoring and incident response
-- Threat analysis and investigation
-- Vulnerability and risk management
-- Linux and system security
-- Cloud and identity security
-- Web and application security
-- Python and security automation
-- SQL and security data analysis
-- Security frameworks, controls, and best practices
+### Core Foundations
 
-## What I'm Currently Doing
+| Area | Focus |
+|---|---|
+| **Security** | Fundamentals · Defensive Security · Security Controls |
+| **Networks** | Networking · Network Security · Traffic Analysis |
+| **Operations** | Monitoring · Threat Analysis · Incident Response |
+| **Systems** | Linux · System Security · Access Control |
+| **Applications** | Web Security · Application Security · Vulnerabilities |
+| **Data & Automation** | Python · SQL · Security Automation |
+| **Cloud & Identity** | Cloud Security · IAM · Authentication |
 
-I'm following a hands-on approach to cybersecurity — combining structured coursework with independent practice and projects.
+---
 
-### Learning
+### 💻 What I'm Currently Doing
 
-Building my fundamentals through the **Google Cybersecurity Professional Certificate** while strengthening my understanding of networking, operating systems, security concepts, risk management, and defensive security.
+Combining structured coursework with hands-on practice to turn concepts into practical security work.
 
-### Building
+### 💻 Learning
 
-Turning what I learn into documented projects, investigations, scripts, and security labs — with a focus on explaining **the problem, the investigation, the findings, and the lessons learned**.
+Working through the **Google Cybersecurity Professional Certificate** while strengthening my understanding of security concepts, networking, operating systems, risk management, and defensive security.
 
+### 💻 Building
+
+Turning what I learn into **projects, investigations, scripts, and security labs**, while documenting the process, findings, and lessons learned.
