@@ -1,16 +1,33 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**cheshtass/cheshtass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey, I'm Cheshta
 
-Here are some ideas to get you started:
+### Cybersecurity Student • Security Analyst in Training
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Learning how systems work, how threats happen, and how defenders detect, investigate and respond.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cheshta%20Singh-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/cheshta-singh/)
+
+</div>
+
+---
+
+## About Me
+
+I'm a **B.Tech Cybersecurity student** building my foundation through a combination of structured learning, hands-on labs, practical investigations, and personal projects.
+
+I'm interested in understanding cybersecurity beyond individual tools — from **how networks and systems communicate** to **how threats are detected, investigated, and prevented**.
+
+I'm working toward becoming a well-rounded security professional with a strong foundation across:
+
+- Security fundamentals and defensive security
+- Network and communication security
+- Security monitoring and incident response
+- Threat analysis and investigation
+- Vulnerability and risk management
+- Linux and system security
+- Cloud and identity security
+- Web and application security
+- Python and security automation
+- SQL and security data analysis
+- Security frameworks, controls, and best practices
