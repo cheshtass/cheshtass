@@ -31,3 +31,16 @@ I'm working toward becoming a well-rounded security professional with a strong f
 - Python and security automation
 - SQL and security data analysis
 - Security frameworks, controls, and best practices
+
+## What I'm Currently Doing
+
+I'm following a hands-on approach to cybersecurity — combining structured coursework with independent practice and projects.
+
+### Learning
+
+Building my fundamentals through the **Google Cybersecurity Professional Certificate** while strengthening my understanding of networking, operating systems, security concepts, risk management, and defensive security.
+
+### Building
+
+Turning what I learn into documented projects, investigations, scripts, and security labs — with a focus on explaining **the problem, the investigation, the findings, and the lessons learned**.
+
