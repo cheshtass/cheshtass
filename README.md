@@ -28,7 +28,6 @@ I'm working toward becoming a well-rounded security professional with a strong f
 | **Networks** | Networking · Network Security · Traffic Analysis |
 | **Operations** | Monitoring · Threat Analysis · Incident Response |
 | **Systems** | Linux · System Security · Access Control |
-| **Applications** | Web Security · Application Security · Vulnerabilities |
 | **Data & Automation** | Python · SQL · Security Automation |
 | **Cloud & Identity** | Cloud Security · IAM · Authentication |
 
