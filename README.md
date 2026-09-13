@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm a **B.Tech Cybersecurity student** building my foundation through a combination of structured learning, hands-on labs, practical investigations, and personal projects.
+I'm a final year **B.Tech AIML student** building my foundation through a combination of structured learning, hands-on labs, practical investigations, and personal projects.
 
 I'm interested in understanding cybersecurity beyond individual tools — from **how networks and systems communicate** to **how threats are detected, investigated, and prevented**.
 
