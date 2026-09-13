@@ -46,7 +46,7 @@ A growing collection of my coursework, investigations, hands-on labs, projects, 
 
 - ### Certifications
 
-   └── [Google Cybersecurity](https://github.com/cheshtass/google-cybersecurity)
+   └── [Google Cybersecurity](https://github.com/cheshtass/Google-Cybersecurity)
 
 
 
