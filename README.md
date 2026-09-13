@@ -38,8 +38,15 @@ I'm working toward becoming a well-rounded security professional with a strong f
 - 🎯 **CompTIA Security+ (SY0-701)** — In progress
 - 📚 **Google Cybersecurity Professional Certificate** — In progress via Coursera
 
-### 💻 Learning
+---
 
-Working through the **Google Cybersecurity Professional Certificate** while strengthening my understanding of security concepts, networking, operating systems, risk management, and defensive security.
+## Portfolio
+
+A growing collection of my coursework, investigations, hands-on labs, projects, and technical notes.
+
+- ### Certifications
+
+   └── [Google Cybersecurity](https://github.com/cheshtass/google-cybersecurity)
+
 
 
